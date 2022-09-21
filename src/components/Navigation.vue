@@ -26,9 +26,7 @@
     </nav>
   </header>
 </template>
-
 <script>
-  
 export default {
   name: "navigation",
   data() {
